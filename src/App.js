@@ -79,20 +79,20 @@ const quotes = [
     author: "sahil lavingia (@shl)",
   },
   {
-    text: "The best way to predict the future is to invent it",
-    author: "Alan Kay",
+    text: "If you’re so smart, why aren’t you rich? Turns out you’re fucking stupid",
+    author: "somewhere on the internet",
   },
   {
-    text: "Simplicity is the ultimate sophistication",
-    author: "Leonardo da Vinci",
+    text: "The One Course to Change your Life, Game Theory",
+    author: "X",
   },
   {
-    text: "Knowledge is power, but enthusiasm pulls the switch",
-    author: "Ivern Ball",
+    text: "I was the intimacy coordinator on the set of Stuart Little",
+    author: "the mind (@Fredward3948576)",
   },
   {
-    text: "The only way to do great work is to love what you do",
-    author: "Steve Jobs",
+    text: "if your job lets you code and think deeply about product all day with minimal meetings you are incredibly blessed",
+    author: "varepsilon (@var_epsilon)",
   },
   {
     text: "Innovation is saying 'no' to 1,000 things",
