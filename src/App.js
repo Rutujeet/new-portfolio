@@ -367,8 +367,8 @@ const PortfolioLanding = () => {
       <Section id="home" bgColor="bg-black">
         <div className="h-screen flex items-center">
           <div className="space-y-4 sm:space-y-8">
-            <h1 className="italic text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-extrabold text-white">
-              ~ plugpollution
+            <h1 className="text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-extrabold text-white">
+              plugpollution
             </h1>
             <p className="sm:text-xl lg:text-2xl text-white max-w-2xl">
               <span className="text-[#FC5701]">Engineering</span> undergrad
@@ -449,13 +449,11 @@ const PortfolioLanding = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-white">
                 <ul className="list-disc pl-6 space-y-2">
                   <li>Information theory</li>
-                  <li>Cellular automaton</li>
                   <li>Advanced algorithms</li>
+                  <li>Networking & Unix systems</li>
                   <li>Cryogenics</li>
                 </ul>
                 <ul className="list-disc pl-6 space-y-2">
-                  <li>Ceramics & Biomaterials</li>
-                  <li>Networking & Unix systems</li>
                   <li>Decentralization</li>
                   <li>Energy geopolitics</li>
                 </ul>
