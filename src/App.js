@@ -367,6 +367,13 @@ const PortfolioLanding = () => {
       <Section id="home" bgColor="bg-black">
         <div className="h-screen flex items-center">
           <div className="space-y-4 sm:space-y-8">
+            <a
+              href="https://plugpollution.netlify.app"
+              target="_blank"
+              className="text-white/50 hover:text-[#FC5701] transition-colors text-sm sm:text-base block mb-2"
+            >
+              → go to minimal site
+            </a>
             <h1 className="text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-extrabold text-white">
               plugpollution
             </h1>
@@ -396,6 +403,13 @@ const PortfolioLanding = () => {
                 className="text-white hover:text-[#FC5701] transition-colors"
               >
                 Blog
+              </a>
+              <a
+                href="https://plugpollution.netlify.app"
+                target="_blank"
+                className="text-white hover:text-[#FC5701] transition-colors"
+              >
+                Minimal Site
               </a>
             </div>
           </div>
